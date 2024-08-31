@@ -1,1 +1,1 @@
-# go_quicknotes
+Progresso do curso da linguagem Go iniciado em agosto/24.
